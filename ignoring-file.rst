@@ -79,3 +79,9 @@ Certain File Types Will Be Ignored.
   - Do not forget to add and to commit the changes.
 
     $ git commit -a -m "Updating and ignoring vim backups"
+
+  - At this point, we can check what has been ignored with the
+    following command. It checks ignore patterns.
+
+    $ git check-ignore *~
+    ignoring-file.rst~
