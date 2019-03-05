@@ -41,10 +41,10 @@ Adding Files.
 
           new file:   README.rst
 
-  Note: git does not care about empty directories, if there is
-      an empty directory in your repo and we want to git add it
-      then git add will ignore it. in other words, it won't be
-      add it
+
+  Note: git does not care about empty directories, if there is an empty directory in our
+  repo and we want to git add it then git add will ignore it. in other words, it won't be
+  add it.
 
   $ git rm README.rst
 
