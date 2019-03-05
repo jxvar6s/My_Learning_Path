@@ -48,6 +48,6 @@ Adding Files.
 
   $ git rm README.rst
 
-  To forece the removal.
+  To force the removal.
 
   $ git rm -f README.rst
