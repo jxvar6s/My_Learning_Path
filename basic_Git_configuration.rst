@@ -33,6 +33,7 @@ Basic Configuration.
   - Displaying configuration list.
 
     $ git config --list
+
     core.editor=/usr/bin/vim
     user.name=your-name
     user.email=your-name@email.com
