@@ -91,3 +91,8 @@ Using Branches.
 
   nothing added to commit but untracked files present (use "git add" to track)
 
+  The message displayed informs us that we need to add the files, as consequence; we need to commit.
+
++ Conclusion.
+  The previous examples show a broad understanding about git branch, as a result; they can assist us to
+  expand our horizon.
