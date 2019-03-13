@@ -26,7 +26,7 @@ Using Branches.
 
 + Branch, What does it mean?
 
-  We can enter git status to check in what branche we are.
+  We can enter git status to check in what branch we are.
 
   $ git status
   On branch master
