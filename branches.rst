@@ -26,7 +26,11 @@ Using Branches.
 
 + Branch, What does it mean?
 
+<<<<<<< HEAD
   We can enter git status to check in what branch we are.
+=======
+  We can enter git status to check in what branche we are.
+>>>>>>> development
 
   $ git status
   On branch master
@@ -79,6 +83,7 @@ Using Branches.
   To switch to development branch, we enter the following command.
 
   $ git checkout development
+<<<<<<< HEAD
   Switched to branch 'development'
 
   $ git status
@@ -96,3 +101,5 @@ Using Branches.
 + Conclusion.
   The previous examples show a broad understanding about git branch, as a result; they can assist us to
   expand our horizon.
+=======
+>>>>>>> development
