@@ -56,4 +56,4 @@ Reverting a Commit.
 
 + Conclusion.
 
-  As we can read, This is one of the way that we can use git revert to undo commits.
+  As we can read, This is one of the ways that we can use to undo commits using 'git revert'.
