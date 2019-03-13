@@ -26,11 +26,7 @@ Using Branches.
 
 + Branch, What does it mean?
 
-<<<<<<< HEAD
-  We can enter git status to check in what branch we are.
-=======
   We can enter git status to check in what branche we are.
->>>>>>> development
 
   $ git status
   On branch master
