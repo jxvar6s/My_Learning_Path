@@ -134,4 +134,18 @@ Using Git's Logs.
 
     4d9d7ca - Julian - 2 days ago - Working wit 'git revert'...
 
+    ** Note: Another handy git log options.
+
+              $ git log --oneline       --> both lines have similar output.
+
+              $ git log --pretty=oneline --abbrev-commit
+
+              - To view the last ten commits.
+
+                $ git log -10
+
+                      OR
+
+                $ git log -n 10
+
 + git tool is powerful and there are several option that we can interact with them.
