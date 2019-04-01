@@ -10,7 +10,7 @@ Now, we will create the pull request for the commit we just push up to the remot
    :width: 200
    :alt: image-1
 
-- Locate 'New pull reques' and click it. image-2
+- Locate 'New pull request' and click it. image-2
 
 .. image:: new_pull_request.png
    :width: 900
@@ -21,7 +21,7 @@ Now, we will create the pull request for the commit we just push up to the remot
 
 .. image:: changed_file.png
    :width: 700
-   :alt: image-3
+
 
 Note:The last line of the file is highlighted that means the new addition.
 
@@ -29,7 +29,6 @@ Note:The last line of the file is highlighted that means the new addition.
 
 .. image:: create_pull_request.png
    :width:: 800
-   :alt: image-4
 
 - Add a comment in the comment box and click on the 'create pull request' bottom. image-5
   Github will be checking for any conflicts our branches may have and merge them neatly.
@@ -40,17 +39,14 @@ Note:The last line of the file is highlighted that means the new addition.
 
 .. image:: open_pull_request.png
    :width:: 700
-   :alt: image-5
 
 .. image:: confirm_merge.png
    :width:: 400
-   :alt: image-6
 
 - Finally, if there are no conflicts then the following messege is displayed. image-7
 
 .. image:: pull_request_done.png
    :width:: 800
-   :alt: image-7
 
 - Let's go back to the <> Code tab section. In this section, we will see the README.rst file updated.
 
